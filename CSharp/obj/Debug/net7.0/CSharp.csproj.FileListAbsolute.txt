@@ -1,0 +1,15 @@
+C:\DIO\CSharp\bin\Debug\net7.0\CSharp.exe
+C:\DIO\CSharp\bin\Debug\net7.0\CSharp.deps.json
+C:\DIO\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+C:\DIO\CSharp\bin\Debug\net7.0\CSharp.dll
+C:\DIO\CSharp\bin\Debug\net7.0\CSharp.pdb
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.csproj.AssemblyReference.cache
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.dll
+C:\DIO\CSharp\obj\Debug\net7.0\refint\CSharp.dll
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.pdb
+C:\DIO\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+C:\DIO\CSharp\obj\Debug\net7.0\ref\CSharp.dll
