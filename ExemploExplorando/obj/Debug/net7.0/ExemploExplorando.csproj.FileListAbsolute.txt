@@ -1,0 +1,15 @@
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.AssemblyInfo.cs
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\DIO\DIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.exe
+C:\DIO\DIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.deps.json
+C:\DIO\DIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.runtimeconfig.json
+C:\DIO\DIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.dll
+C:\DIO\DIO\ExemploExplorando\bin\Debug\net7.0\ExemploExplorando.pdb
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.dll
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\refint\ExemploExplorando.dll
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.pdb
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ExemploExplorando.genruntimeconfig.cache
+C:\DIO\DIO\ExemploExplorando\obj\Debug\net7.0\ref\ExemploExplorando.dll
