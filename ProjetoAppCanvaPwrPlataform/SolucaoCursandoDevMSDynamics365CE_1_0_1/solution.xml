@@ -1,0 +1,130 @@
+<ImportExportXml version="9.2.23052.188" SolutionPackageVersion="9.2" languagecode="1046" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>SolucaoCursandoDevMSDynamics365CE</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Solução Cursando Desenvolvimento MS Dynamics 365 CE" languagecode="1046" />
+    </LocalizedNames>
+    <Descriptions>
+      <Description description="Solução para o curso de desenvolvimento do MS Dynamics 365 CE" languagecode="1046" />
+    </Descriptions>
+    <Version>1.0.1</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>cursodio</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="cursoDIO" languagecode="1046" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>cursodio</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>63446</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode>1</AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode>1</ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="cursodio_aluno" behavior="0" />
+      <RootComponent type="1" schemaName="cursodio_cursosdisponiveis" behavior="0" />
+      <RootComponent type="1" schemaName="cursodio_cursoxinstrutores" behavior="0" />
+      <RootComponent type="1" schemaName="cursodio_instrutores" behavior="0" />
+      <RootComponent type="1" schemaName="msdyn_teamsengagementctx" behavior="1" />
+      <RootComponent type="29" id="{bf5096ba-2ef3-ed11-8848-002248e093cf}" behavior="0" />
+      <RootComponent type="61" schemaName="cursodio_BibliotecaJS" behavior="0" />
+      <RootComponent type="61" schemaName="cursodio_LogoCursos" behavior="0" />
+      <RootComponent type="61" schemaName="cursodio_scriptjsworkbench" behavior="0" />
+      <RootComponent type="61" schemaName="cursodio_WebPageTreinamento" behavior="0" />
+      <RootComponent type="62" schemaName="cursodio_Treinamento" behavior="0" />
+      <RootComponent type="300" schemaName="cursodio_instrutoresecursos_e4f42" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_teamsengagementctx" displayName="(Preterido) Contexto de Engajamento do Teams" solution="OmnichannelTeams (1.5.0.117)" />
+        <Dependent type="1" schemaName="msdyn_teamsengagementctx" displayName="(Preterido) Contexto de Engajamento do Teams" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_teamsengagementctx" displayName="(Preterido) Contexto de Engajamento do Teams" solution="OmnichannelTeams (1.5.0.117)" />
+        <Dependent type="10" schemaName="cursodio_msdyn_teamsengagementctx_cursodio_cursoxinstrutores_NvelInstrutor" displayName="cursodio_msdyn_teamsengagementctx_cursodio_cursoxinstrutores_NvelInstrutor" parentSchemaName="msdyn_teamsengagementctx" parentDisplayName="(Preterido) Contexto de Engajamento do Teams" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_teamsengagementctx" displayName="(Preterido) Contexto de Engajamento do Teams" solution="OmnichannelTeams (1.5.0.117)" />
+        <Dependent type="300" schemaName="cursodio_instrutoresecursos_e4f42" displayName="Instrutores e Cursos" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="msdyn_customername" displayName="Nome do Cliente" parentSchemaName="msdyn_teamsengagementctx" parentDisplayName="(Preterido) Contexto de Engajamento do Teams" solution="OmnichannelTeams (1.5.0.117)" />
+        <Dependent type="10" schemaName="cursodio_msdyn_teamsengagementctx_cursodio_cursoxinstrutores_NvelInstrutor" displayName="cursodio_msdyn_teamsengagementctx_cursodio_cursoxinstrutores_NvelInstrutor" parentSchemaName="msdyn_teamsengagementctx" parentDisplayName="(Preterido) Contexto de Engajamento do Teams" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="2" schemaName="msdyn_teamsengagementctxid" displayName="Contexto de Engajamento do Teams" parentSchemaName="msdyn_teamsengagementctx" parentDisplayName="(Preterido) Contexto de Engajamento do Teams" solution="OmnichannelTeams (1.5.0.117)" />
+        <Dependent type="10" schemaName="cursodio_msdyn_teamsengagementctx_cursodio_cursoxinstrutores_NvelInstrutor" displayName="cursodio_msdyn_teamsengagementctx_cursodio_cursoxinstrutores_NvelInstrutor" parentSchemaName="msdyn_teamsengagementctx" parentDisplayName="(Preterido) Contexto de Engajamento do Teams" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="29" displayName="PowerApp -&gt; Enviar um email (V2)" solution="Active" id="{fdf632d8-21f8-ed11-8f6d-002248e093cf}" />
+        <Dependent type="300" schemaName="cursodio_instrutoresecursos_e4f42" displayName="Instrutores e Cursos" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="66" schemaName="MscrmControls.Canvas.CanvasControl" displayName="MscrmControls.Canvas.CanvasControl" solution="BaseCustomControlsCore (9.0.2305.2015)" />
+        <Dependent type="60" displayName="Curso DYN365CE" parentDisplayName="Cursos Disponíveis" id="{b52bc291-cf49-401a-88a4-2a5dcb9c971d}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="70" displayName="Treinamento" solution="Active" id="{b6742181-fcf3-ed11-8848-002248e093cf}" />
+        <Dependent type="70" displayName="Treinamento" id="{b6742181-fcf3-ed11-8848-002248e093cf}" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>

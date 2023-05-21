@@ -1,0 +1,20 @@
+<html><head>
+    <title>Formulário HTML</title>
+<meta></head>
+<body onfocusout="parent.setEmailRange();" style="overflow-wrap: break-word;">
+    <h1>Formulário HTML</h1>
+    <form action="processar_formulario.php" method="POST">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required=""><br><br>
+        
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" required=""><br><br>
+        
+        <label for="mensagem">Mensagem:</label>
+        <textarea id="mensagem" name="mensagem" required=""></textarea><br><br>
+        
+        <input type="submit" value="Enviar">
+    </form>
+
+
+</body></html>
